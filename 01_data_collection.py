@@ -1,6 +1,8 @@
-# NOTEBOOK 1: DATA COLLECTION
 # Financial Influencers & ASX Market Analysis
-# COSC 2671 - Assignment 2
+# COSC2671 - Assignment 2
+# Abhishek Mathur – S4200870
+# Ananya Shandilya – S4145593
+# Meishva Kiran Rathod – S4150918
 
 
 import json
