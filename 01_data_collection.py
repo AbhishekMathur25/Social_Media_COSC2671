@@ -15,7 +15,7 @@ from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFoun
 
 # CONFIGURATION
 
-API_KEY  = "AIzaSyA6ESGlnFcQOMLz8Y2ysrKcdQEL2gd-pKo"
+API_KEY  = "apikey"
 YOUTUBE  = build('youtube', 'v3', developerKey=API_KEY)
 
 # Search queries to find Australian finance influencer videos
