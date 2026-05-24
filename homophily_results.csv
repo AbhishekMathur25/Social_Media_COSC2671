@@ -1,0 +1,2 @@
+sentiment_homophily_r,sentiment_homophily_p,topic_homophily_t,topic_homophily_p,same_topic_avg_weight,diff_topic_avg_weight,community_homophily_t,community_homophily_p,same_comm_avg_weight,diff_comm_avg_weight
+0.11990401694670756,0.11718073874868293,1.5962219754979943,0.1122965012473673,6.04,4.098360655737705,1.5962219754979943,0.1122965012473673,4.662790697674419,

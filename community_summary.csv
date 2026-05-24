@@ -1,0 +1,8 @@
+community_id,size,channels,dominant_topic,avg_title_sentiment,avg_comment_sentiment,avg_asx_T1_return,avg_asx_T3_return,internal_density,total_videos,total_comments
+0,11,"Craig Percoco, Finer Market Points, Gohar Khan, Humphrey Yang, Joyee Yang, Mark Tilbury, Nischa, Ryne Williams, Steve | Call to Leap, The Ramsey Show Highlights, Universe Data",Beginner & Education,0.1324,0.2369,-0.001174,-0.000185,0.6182,31,11827
+1,21,"Australian Investment Education, Australian Property Mastery with PK Gupta, Brent Coleman, Bryan Invest, Davie Mach, ETFadviser (Australia), Equity Mates, Invest With Queenie, Irene Zhu, Jason McIntosh __ Motion Trader, Kapitales Research Australia, Livewire Markets, Morningstar Australia, Personal Finance with Ravi Sharma, Rask, Raymond La, Tracey Edwards, Veye Australia, Walk The World, Wealth Within, ausbiz",ETF & Dividends,0.1127,0.3596,-0.000514,-4.2e-05,0.4429,273,3946
+2,1,Bloomberg Podcasts,ASX Blue Chips,-0.0386,-0.7269,-0.005501,-0.000742,0.0,2,1
+3,1,Kalkine Media,ASX Blue Chips,0.0,-0.088,-0.001223,0.001223,0.0,2,2
+4,1,Carl Capolingua,ASX Blue Chips,0.0,0.688,-0.000644,0.012332,0.0,2,3
+5,1,Sky News Australia,ASX Blue Chips,0.0821,0.111,0.002159,0.004656,0.0,15,30
+6,1,Marcus Today,ETF & Dividends,0.2271,0.582,-0.001942,0.00115,0.0,7,2

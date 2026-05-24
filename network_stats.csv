@@ -1,0 +1,2 @@
+nodes,edges,density,avg_degree,avg_clustering,connected_components,largest_component_size,degree_assortativity,multi_channel_commenters
+37,172,0.25825825825825827,9.297297297297296,0.6046891107107826,6,32,-0.2585094758609344,470

@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="degree_centrality" type="double" />
+      <attribute id="1" title="betweenness" type="double" />
+      <attribute id="2" title="eigenvector" type="double" />
+      <attribute id="3" title="pagerank" type="double" />
+      <attribute id="4" title="clustering" type="double" />
+      <attribute id="5" title="total_views" type="double" />
+      <attribute id="6" title="topic_label" type="string" />
+      <attribute id="7" title="avg_sentiment" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Raymond La" label="Raymond La">
+        <attvalues>
+          <attvalue for="0" value="0.5833333333333333" />
+          <attvalue for="1" value="0.03156714537666919" />
+          <attvalue for="2" value="0.30523317951655504" />
+          <attvalue for="3" value="0.07244758261720462" />
+          <attvalue for="4" value="0.04037217807179577" />
+          <attvalue for="5" value="526586.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.33225000000000005" />
+        </attvalues>
+      </node>
+      <node id="Bryan Invest" label="Bryan Invest">
+        <attvalues>
+          <attvalue for="0" value="0.7222222222222222" />
+          <attvalue for="1" value="0.1096624979958313" />
+          <attvalue for="2" value="0.4222122042671011" />
+          <attvalue for="3" value="0.12239063370851815" />
+          <attvalue for="4" value="0.040426449336947314" />
+          <attvalue for="5" value="2242227.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.14366470588235297" />
+        </attvalues>
+      </node>
+      <node id="Morningstar Australia" label="Morningstar Australia">
+        <attvalues>
+          <attvalue for="0" value="0.3611111111111111" />
+          <attvalue for="1" value="0.04827011612725899" />
+          <attvalue for="2" value="0.05712403198661046" />
+          <attvalue for="3" value="0.018317014491055012" />
+          <attvalue for="4" value="0.03493254166007753" />
+          <attvalue for="5" value="59844.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.29716666666666663" />
+        </attvalues>
+      </node>
+      <node id="Invest With Queenie" label="Invest With Queenie">
+        <attvalues>
+          <attvalue for="0" value="0.5277777777777778" />
+          <attvalue for="1" value="0.03649167411072173" />
+          <attvalue for="2" value="0.18174010735312857" />
+          <attvalue for="3" value="0.047470352276415405" />
+          <attvalue for="4" value="0.034854719534179776" />
+          <attvalue for="5" value="277259.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.36155" />
+        </attvalues>
+      </node>
+      <node id="Rask" label="Rask">
+        <attvalues>
+          <attvalue for="0" value="0.5833333333333333" />
+          <attvalue for="1" value="0.07190808309855931" />
+          <attvalue for="2" value="0.22985363742570372" />
+          <attvalue for="3" value="0.07373491169342312" />
+          <attvalue for="4" value="0.04200193195075771" />
+          <attvalue for="5" value="914145.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.16250833333333334" />
+        </attvalues>
+      </node>
+      <node id="Irene Zhu" label="Irene Zhu">
+        <attvalues>
+          <attvalue for="0" value="0.3333333333333333" />
+          <attvalue for="1" value="0.030261000022904782" />
+          <attvalue for="2" value="0.04325605021760096" />
+          <attvalue for="3" value="0.01570646218183074" />
+          <attvalue for="4" value="0.03191399693878882" />
+          <attvalue for="5" value="24009.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.4257666666666666" />
+        </attvalues>
+      </node>
+      <node id="Veye Australia" label="Veye Australia">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.04484207150873818" />
+          <attvalue for="2" value="0.02227678332250218" />
+          <attvalue for="3" value="0.009869499761184964" />
+          <attvalue for="4" value="0.03169124508609484" />
+          <attvalue for="5" value="19759.0" />
+          <attvalue for="6" value="Stock Research" />
+          <attvalue for="7" value="0.3366823529411765" />
+        </attvalues>
+      </node>
+      <node id="ETFadviser (Australia)" label="ETFadviser (Australia)">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.006366843033509699" />
+          <attvalue for="2" value="0.03851888933742164" />
+          <attvalue for="3" value="0.01280356322753181" />
+          <attvalue for="4" value="0.04228389980378066" />
+          <attvalue for="5" value="39247.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.1162076923076923" />
+        </attvalues>
+      </node>
+      <node id="Wealth Within" label="Wealth Within">
+        <attvalues>
+          <attvalue for="0" value="0.3611111111111111" />
+          <attvalue for="1" value="0.0914104766485719" />
+          <attvalue for="2" value="0.046354330242093275" />
+          <attvalue for="3" value="0.02851119200112812" />
+          <attvalue for="4" value="0.03127486028489519" />
+          <attvalue for="5" value="105500.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.19841666666666666" />
+        </attvalues>
+      </node>
+      <node id="Brent Coleman" label="Brent Coleman">
+        <attvalues>
+          <attvalue for="0" value="0.38888888888888884" />
+          <attvalue for="1" value="0.026694266932362175" />
+          <attvalue for="2" value="0.062390975517907156" />
+          <attvalue for="3" value="0.019813462944389428" />
+          <attvalue for="4" value="0.034356842386609625" />
+          <attvalue for="5" value="42166.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.151725" />
+        </attvalues>
+      </node>
+      <node id="Tracey Edwards" label="Tracey Edwards">
+        <attvalues>
+          <attvalue for="0" value="0.38888888888888884" />
+          <attvalue for="1" value="0.017262534643487024" />
+          <attvalue for="2" value="0.12808433390333981" />
+          <attvalue for="3" value="0.04011029994992309" />
+          <attvalue for="4" value="0.0528830655794466" />
+          <attvalue for="5" value="80552.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.573125" />
+        </attvalues>
+      </node>
+      <node id="Nischa" label="Nischa">
+        <attvalues>
+          <attvalue for="0" value="0.4722222222222222" />
+          <attvalue for="1" value="0.05761927666689571" />
+          <attvalue for="2" value="0.17784012652081352" />
+          <attvalue for="3" value="0.036607320164453575" />
+          <attvalue for="4" value="0.039833788039474946" />
+          <attvalue for="5" value="2457956.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Mark Tilbury" label="Mark Tilbury">
+        <attvalues>
+          <attvalue for="0" value="0.4444444444444444" />
+          <attvalue for="1" value="0.03376108018965162" />
+          <attvalue for="2" value="0.41484452213988204" />
+          <attvalue for="3" value="0.07877559347098564" />
+          <attvalue for="4" value="0.06796636139153207" />
+          <attvalue for="5" value="24029666.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.18296" />
+        </attvalues>
+      </node>
+      <node id="Humphrey Yang" label="Humphrey Yang">
+        <attvalues>
+          <attvalue for="0" value="0.5" />
+          <attvalue for="1" value="0.009257541400398545" />
+          <attvalue for="2" value="0.3714265801853433" />
+          <attvalue for="3" value="0.06859858493938957" />
+          <attvalue for="4" value="0.05940213624651164" />
+          <attvalue for="5" value="3361895.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.0086" />
+        </attvalues>
+      </node>
+      <node id="Gohar Khan" label="Gohar Khan">
+        <attvalues>
+          <attvalue for="0" value="0.2222222222222222" />
+          <attvalue for="1" value="0.009165464165464167" />
+          <attvalue for="2" value="0.17295472541903062" />
+          <attvalue for="3" value="0.026793493451447544" />
+          <attvalue for="4" value="0.0943201918989505" />
+          <attvalue for="5" value="33242699.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Steve | Call to Leap" label="Steve | Call to Leap">
+        <attvalues>
+          <attvalue for="0" value="0.4722222222222222" />
+          <attvalue for="1" value="0.05432740099406766" />
+          <attvalue for="2" value="0.3792286876936126" />
+          <attvalue for="3" value="0.06634542432719598" />
+          <attvalue for="4" value="0.06138040904023702" />
+          <attvalue for="5" value="5890720.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Craig Percoco" label="Craig Percoco">
+        <attvalues>
+          <attvalue for="0" value="0.16666666666666666" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.1214319516309137" />
+          <attvalue for="3" value="0.02133822975380327" />
+          <attvalue for="4" value="0.1450466718675919" />
+          <attvalue for="5" value="6117780.0" />
+          <attvalue for="6" value="Stock Research" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Joyee Yang" label="Joyee Yang">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.012301587301587301" />
+          <attvalue for="2" value="0.18443264245768892" />
+          <attvalue for="3" value="0.03277466996574469" />
+          <attvalue for="4" value="0.09912430288490652" />
+          <attvalue for="5" value="1145248.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.1806" />
+        </attvalues>
+      </node>
+      <node id="Livewire Markets" label="Livewire Markets">
+        <attvalues>
+          <attvalue for="0" value="0.3055555555555555" />
+          <attvalue for="1" value="0.026376463043129707" />
+          <attvalue for="2" value="0.04929543429695098" />
+          <attvalue for="3" value="0.025753741364841168" />
+          <attvalue for="4" value="0.045562029293546524" />
+          <attvalue for="5" value="126424.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.07627894736842106" />
+        </attvalues>
+      </node>
+      <node id="Equity Mates" label="Equity Mates">
+        <attvalues>
+          <attvalue for="0" value="0.08333333333333333" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.022974685344702647" />
+          <attvalue for="3" value="0.008038814161170551" />
+          <attvalue for="4" value="0.06816507113647532" />
+          <attvalue for="5" value="181081.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.1588153846153846" />
+        </attvalues>
+      </node>
+      <node id="Australian Investment Education" label="Australian Investment Education">
+        <attvalues>
+          <attvalue for="0" value="0.1111111111111111" />
+          <attvalue for="1" value="0.0070634920634920625" />
+          <attvalue for="2" value="0.017461698531967138" />
+          <attvalue for="3" value="0.007904526912951477" />
+          <attvalue for="4" value="0.05387826699740159" />
+          <attvalue for="5" value="25585.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.09885" />
+        </attvalues>
+      </node>
+      <node id="The Ramsey Show Highlights" label="The Ramsey Show Highlights">
+        <attvalues>
+          <attvalue for="0" value="0.3055555555555555" />
+          <attvalue for="1" value="0.03751013536727822" />
+          <attvalue for="2" value="0.18088368549981113" />
+          <attvalue for="3" value="0.028863821074976207" />
+          <attvalue for="4" value="0.06888299458487059" />
+          <attvalue for="5" value="6934682.0" />
+          <attvalue for="6" value="Stock Research" />
+          <attvalue for="7" value="0.2202" />
+        </attvalues>
+      </node>
+      <node id="Walk The World" label="Walk The World">
+        <attvalues>
+          <attvalue for="0" value="0.027777777777777776" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="8.728135965642905e-05" />
+          <attvalue for="3" value="0.006431887236549997" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="6594.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.28485" />
+        </attvalues>
+      </node>
+      <node id="Finer Market Points" label="Finer Market Points">
+        <attvalues>
+          <attvalue for="0" value="0.05555555555555555" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0042916996311877795" />
+          <attvalue for="3" value="0.005713491769119916" />
+          <attvalue for="4" value="0.018518518518518517" />
+          <attvalue for="5" value="7023.0" />
+          <attvalue for="6" value="Stock Research" />
+          <attvalue for="7" value="0.23206666666666667" />
+        </attvalues>
+      </node>
+      <node id="ausbiz" label="ausbiz">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.013510959939531367" />
+          <attvalue for="2" value="0.03266900123310982" />
+          <attvalue for="3" value="0.017040421212459127" />
+          <attvalue for="4" value="0.045112500308777975" />
+          <attvalue for="5" value="31665.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.048425" />
+        </attvalues>
+      </node>
+      <node id="Bloomberg Podcasts" label="Bloomberg Podcasts">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4.048061573474165e-58" />
+          <attvalue for="3" value="0.004580152671755726" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="1083.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="-0.0386" />
+        </attvalues>
+      </node>
+      <node id="Kalkine Media" label="Kalkine Media">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4.048061573474165e-58" />
+          <attvalue for="3" value="0.004580152671755726" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="461.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Carl Capolingua" label="Carl Capolingua">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4.048061573474165e-58" />
+          <attvalue for="3" value="0.004580152671755726" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="306.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Universe Data" label="Universe Data">
+        <attvalues>
+          <attvalue for="0" value="0.08333333333333333" />
+          <attvalue for="1" value="0.0028427128427128425" />
+          <attvalue for="2" value="0.010233937382137162" />
+          <attvalue for="3" value="0.006502023660181916" />
+          <attvalue for="4" value="0.04434743700299357" />
+          <attvalue for="5" value="227439.0" />
+          <attvalue for="6" value="Global Markets" />
+          <attvalue for="7" value="0.5556333333333333" />
+        </attvalues>
+      </node>
+      <node id="Sky News Australia" label="Sky News Australia">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4.048061573474165e-58" />
+          <attvalue for="3" value="0.004580152671755726" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="11048.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.0821" />
+        </attvalues>
+      </node>
+      <node id="Davie Mach" label="Davie Mach">
+        <attvalues>
+          <attvalue for="0" value="0.25" />
+          <attvalue for="1" value="0.03194885361552028" />
+          <attvalue for="2" value="0.0736204197860359" />
+          <attvalue for="3" value="0.019025467794315017" />
+          <attvalue for="4" value="0.04208335501944613" />
+          <attvalue for="5" value="295385.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Marcus Today" label="Marcus Today">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="4.048061573474165e-58" />
+          <attvalue for="3" value="0.004580152671755726" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="7637.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.22710000000000002" />
+        </attvalues>
+      </node>
+      <node id="Personal Finance with Ravi Sharma" label="Personal Finance with Ravi Sharma">
+        <attvalues>
+          <attvalue for="0" value="0.1388888888888889" />
+          <attvalue for="1" value="0.061655328798185936" />
+          <attvalue for="2" value="0.009237469763162661" />
+          <attvalue for="3" value="0.013070866206141212" />
+          <attvalue for="4" value="0.025156201481287017" />
+          <attvalue for="5" value="23653.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Australian Property Mastery with PK Gupta" label="Australian Property Mastery with PK Gupta">
+        <attvalues>
+          <attvalue for="0" value="0.1111111111111111" />
+          <attvalue for="1" value="0.012431457431457432" />
+          <attvalue for="2" value="0.009286116733914404" />
+          <attvalue for="3" value="0.006739812236252256" />
+          <attvalue for="4" value="0.042836450015622606" />
+          <attvalue for="5" value="69985.0" />
+          <attvalue for="6" value="ASX Blue Chips" />
+          <attvalue for="7" value="0.17744285714285715" />
+        </attvalues>
+      </node>
+      <node id="Jason McIntosh __ Motion Trader" label="Jason McIntosh __ Motion Trader">
+        <attvalues>
+          <attvalue for="0" value="0.3611111111111111" />
+          <attvalue for="1" value="0.07394718156622918" />
+          <attvalue for="2" value="0.03937876090391124" />
+          <attvalue for="3" value="0.02054184837659745" />
+          <attvalue for="4" value="0.02853386998761903" />
+          <attvalue for="5" value="27965.0" />
+          <attvalue for="6" value="Beginner &amp; Education" />
+          <attvalue for="7" value="0.012645454545454545" />
+        </attvalues>
+      </node>
+      <node id="Kapitales Research Australia" label="Kapitales Research Australia">
+        <attvalues>
+          <attvalue for="0" value="0.027777777777777776" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0004379846258527077" />
+          <attvalue for="3" value="0.00536193623907492" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="5574.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="-0.13154375" />
+        </attvalues>
+      </node>
+      <node id="Ryne Williams" label="Ryne Williams">
+        <attvalues>
+          <attvalue for="0" value="0.16666666666666666" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.06827937360269139" />
+          <attvalue for="3" value="0.013702287470965292" />
+          <attvalue for="4" value="0.09617664810968529" />
+          <attvalue for="5" value="2320712.0" />
+          <attvalue for="6" value="ETF &amp; Dividends" />
+          <attvalue for="7" value="0.0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Raymond La" target="Bryan Invest" id="0" weight="54" />
+      <edge source="Raymond La" target="Jason McIntosh __ Motion Trader" id="1" weight="4" />
+      <edge source="Raymond La" target="Rask" id="2" weight="11" />
+      <edge source="Raymond La" target="Brent Coleman" id="3" weight="6" />
+      <edge source="Raymond La" target="Humphrey Yang" id="4" weight="4" />
+      <edge source="Raymond La" target="Invest With Queenie" id="5" weight="8" />
+      <edge source="Raymond La" target="Tracey Edwards" id="6" weight="9" />
+      <edge source="Raymond La" target="Davie Mach" id="7" weight="2" />
+      <edge source="Raymond La" target="ETFadviser (Australia)" id="8" weight="3" />
+      <edge source="Raymond La" target="Nischa" id="9" weight="2" />
+      <edge source="Raymond La" target="Irene Zhu" id="10" weight="2" />
+      <edge source="Raymond La" target="Morningstar Australia" id="11" weight="2" />
+      <edge source="Raymond La" target="Steve | Call to Leap" id="12" weight="1" />
+      <edge source="Raymond La" target="Veye Australia" id="13" weight="2" />
+      <edge source="Raymond La" target="ausbiz" id="14" weight="3" />
+      <edge source="Raymond La" target="Wealth Within" id="15" weight="1" />
+      <edge source="Raymond La" target="Mark Tilbury" id="16" weight="2" />
+      <edge source="Raymond La" target="Livewire Markets" id="17" weight="2" />
+      <edge source="Raymond La" target="Universe Data" id="18" weight="1" />
+      <edge source="Raymond La" target="Australian Investment Education" id="19" weight="1" />
+      <edge source="Raymond La" target="Australian Property Mastery with PK Gupta" id="20" weight="1" />
+      <edge source="Bryan Invest" target="Jason McIntosh __ Motion Trader" id="21" weight="1" />
+      <edge source="Bryan Invest" target="Rask" id="22" weight="32" />
+      <edge source="Bryan Invest" target="Brent Coleman" id="23" weight="4" />
+      <edge source="Bryan Invest" target="Humphrey Yang" id="24" weight="5" />
+      <edge source="Bryan Invest" target="Invest With Queenie" id="25" weight="26" />
+      <edge source="Bryan Invest" target="Tracey Edwards" id="26" weight="11" />
+      <edge source="Bryan Invest" target="Davie Mach" id="27" weight="12" />
+      <edge source="Bryan Invest" target="Craig Percoco" id="28" weight="2" />
+      <edge source="Bryan Invest" target="Steve | Call to Leap" id="29" weight="11" />
+      <edge source="Bryan Invest" target="Mark Tilbury" id="30" weight="12" />
+      <edge source="Bryan Invest" target="Irene Zhu" id="31" weight="4" />
+      <edge source="Bryan Invest" target="Morningstar Australia" id="32" weight="5" />
+      <edge source="Bryan Invest" target="Veye Australia" id="33" weight="1" />
+      <edge source="Bryan Invest" target="Joyee Yang" id="34" weight="1" />
+      <edge source="Bryan Invest" target="Australian Property Mastery with PK Gupta" id="35" weight="1" />
+      <edge source="Bryan Invest" target="ETFadviser (Australia)" id="36" weight="2" />
+      <edge source="Bryan Invest" target="Equity Mates" id="37" weight="4" />
+      <edge source="Bryan Invest" target="Livewire Markets" id="38" weight="4" />
+      <edge source="Bryan Invest" target="Wealth Within" id="39" weight="4" />
+      <edge source="Bryan Invest" target="Nischa" id="40" weight="3" />
+      <edge source="Bryan Invest" target="The Ramsey Show Highlights" id="41" weight="2" />
+      <edge source="Bryan Invest" target="ausbiz" id="42" weight="3" />
+      <edge source="Bryan Invest" target="Australian Investment Education" id="43" weight="3" />
+      <edge source="Bryan Invest" target="Universe Data" id="44" weight="1" />
+      <edge source="Bryan Invest" target="Personal Finance with Ravi Sharma" id="45" weight="1" />
+      <edge source="Morningstar Australia" target="Brent Coleman" id="46" weight="1" />
+      <edge source="Morningstar Australia" target="Humphrey Yang" id="47" weight="1" />
+      <edge source="Morningstar Australia" target="Invest With Queenie" id="48" weight="1" />
+      <edge source="Morningstar Australia" target="Irene Zhu" id="49" weight="1" />
+      <edge source="Morningstar Australia" target="Rask" id="50" weight="6" />
+      <edge source="Morningstar Australia" target="Steve | Call to Leap" id="51" weight="1" />
+      <edge source="Morningstar Australia" target="Veye Australia" id="52" weight="1" />
+      <edge source="Morningstar Australia" target="Mark Tilbury" id="53" weight="1" />
+      <edge source="Morningstar Australia" target="Tracey Edwards" id="54" weight="3" />
+      <edge source="Morningstar Australia" target="Jason McIntosh __ Motion Trader" id="55" weight="1" />
+      <edge source="Morningstar Australia" target="Wealth Within" id="56" weight="1" />
+      <edge source="Invest With Queenie" target="Brent Coleman" id="57" weight="2" />
+      <edge source="Invest With Queenie" target="Humphrey Yang" id="58" weight="2" />
+      <edge source="Invest With Queenie" target="Tracey Edwards" id="59" weight="6" />
+      <edge source="Invest With Queenie" target="Irene Zhu" id="60" weight="3" />
+      <edge source="Invest With Queenie" target="Rask" id="61" weight="9" />
+      <edge source="Invest With Queenie" target="Steve | Call to Leap" id="62" weight="2" />
+      <edge source="Invest With Queenie" target="Veye Australia" id="63" weight="1" />
+      <edge source="Invest With Queenie" target="ETFadviser (Australia)" id="64" weight="2" />
+      <edge source="Invest With Queenie" target="Davie Mach" id="65" weight="4" />
+      <edge source="Invest With Queenie" target="Equity Mates" id="66" weight="2" />
+      <edge source="Invest With Queenie" target="Jason McIntosh __ Motion Trader" id="67" weight="1" />
+      <edge source="Invest With Queenie" target="Livewire Markets" id="68" weight="1" />
+      <edge source="Invest With Queenie" target="Wealth Within" id="69" weight="2" />
+      <edge source="Invest With Queenie" target="Gohar Khan" id="70" weight="1" />
+      <edge source="Invest With Queenie" target="The Ramsey Show Highlights" id="71" weight="2" />
+      <edge source="Invest With Queenie" target="Australian Property Mastery with PK Gupta" id="72" weight="1" />
+      <edge source="Rask" target="Jason McIntosh __ Motion Trader" id="73" weight="6" />
+      <edge source="Rask" target="Brent Coleman" id="74" weight="4" />
+      <edge source="Rask" target="Humphrey Yang" id="75" weight="2" />
+      <edge source="Rask" target="Irene Zhu" id="76" weight="3" />
+      <edge source="Rask" target="Steve | Call to Leap" id="77" weight="1" />
+      <edge source="Rask" target="Veye Australia" id="78" weight="1" />
+      <edge source="Rask" target="ETFadviser (Australia)" id="79" weight="3" />
+      <edge source="Rask" target="Tracey Edwards" id="80" weight="15" />
+      <edge source="Rask" target="Livewire Markets" id="81" weight="6" />
+      <edge source="Rask" target="Wealth Within" id="82" weight="7" />
+      <edge source="Rask" target="Nischa" id="83" weight="1" />
+      <edge source="Rask" target="ausbiz" id="84" weight="1" />
+      <edge source="Rask" target="Mark Tilbury" id="85" weight="1" />
+      <edge source="Rask" target="The Ramsey Show Highlights" id="86" weight="1" />
+      <edge source="Rask" target="Personal Finance with Ravi Sharma" id="87" weight="2" />
+      <edge source="Rask" target="Australian Investment Education" id="88" weight="1" />
+      <edge source="Rask" target="Davie Mach" id="89" weight="3" />
+      <edge source="Irene Zhu" target="Brent Coleman" id="90" weight="1" />
+      <edge source="Irene Zhu" target="Humphrey Yang" id="91" weight="1" />
+      <edge source="Irene Zhu" target="Steve | Call to Leap" id="92" weight="1" />
+      <edge source="Irene Zhu" target="Veye Australia" id="93" weight="1" />
+      <edge source="Irene Zhu" target="ETFadviser (Australia)" id="94" weight="1" />
+      <edge source="Irene Zhu" target="Jason McIntosh __ Motion Trader" id="95" weight="1" />
+      <edge source="Irene Zhu" target="Davie Mach" id="96" weight="1" />
+      <edge source="Veye Australia" target="Brent Coleman" id="97" weight="1" />
+      <edge source="Veye Australia" target="Humphrey Yang" id="98" weight="1" />
+      <edge source="Veye Australia" target="Steve | Call to Leap" id="99" weight="1" />
+      <edge source="ETFadviser (Australia)" target="Humphrey Yang" id="100" weight="1" />
+      <edge source="ETFadviser (Australia)" target="Nischa" id="101" weight="1" />
+      <edge source="ETFadviser (Australia)" target="Tracey Edwards" id="102" weight="2" />
+      <edge source="ETFadviser (Australia)" target="Mark Tilbury" id="103" weight="1" />
+      <edge source="Wealth Within" target="Livewire Markets" id="104" weight="5" />
+      <edge source="Wealth Within" target="Personal Finance with Ravi Sharma" id="105" weight="1" />
+      <edge source="Wealth Within" target="Tracey Edwards" id="106" weight="3" />
+      <edge source="Wealth Within" target="Jason McIntosh __ Motion Trader" id="107" weight="3" />
+      <edge source="Wealth Within" target="Davie Mach" id="108" weight="1" />
+      <edge source="Wealth Within" target="Australian Investment Education" id="109" weight="1" />
+      <edge source="Wealth Within" target="Kapitales Research Australia" id="110" weight="1" />
+      <edge source="Wealth Within" target="ausbiz" id="111" weight="1" />
+      <edge source="Brent Coleman" target="Humphrey Yang" id="112" weight="2" />
+      <edge source="Brent Coleman" target="Tracey Edwards" id="113" weight="2" />
+      <edge source="Brent Coleman" target="Steve | Call to Leap" id="114" weight="1" />
+      <edge source="Brent Coleman" target="Jason McIntosh __ Motion Trader" id="115" weight="1" />
+      <edge source="Brent Coleman" target="Livewire Markets" id="116" weight="1" />
+      <edge source="Brent Coleman" target="Nischa" id="117" weight="1" />
+      <edge source="Brent Coleman" target="ausbiz" id="118" weight="1" />
+      <edge source="Tracey Edwards" target="Humphrey Yang" id="119" weight="1" />
+      <edge source="Tracey Edwards" target="Livewire Markets" id="120" weight="5" />
+      <edge source="Tracey Edwards" target="Jason McIntosh __ Motion Trader" id="121" weight="1" />
+      <edge source="Tracey Edwards" target="Nischa" id="122" weight="1" />
+      <edge source="Tracey Edwards" target="ausbiz" id="123" weight="3" />
+      <edge source="Tracey Edwards" target="The Ramsey Show Highlights" id="124" weight="1" />
+      <edge source="Nischa" target="Humphrey Yang" id="125" weight="14" />
+      <edge source="Nischa" target="Livewire Markets" id="126" weight="1" />
+      <edge source="Nischa" target="ausbiz" id="127" weight="1" />
+      <edge source="Nischa" target="Mark Tilbury" id="128" weight="12" />
+      <edge source="Nischa" target="Craig Percoco" id="129" weight="4" />
+      <edge source="Nischa" target="Steve | Call to Leap" id="130" weight="7" />
+      <edge source="Nischa" target="Joyee Yang" id="131" weight="12" />
+      <edge source="Nischa" target="Gohar Khan" id="132" weight="1" />
+      <edge source="Nischa" target="The Ramsey Show Highlights" id="133" weight="3" />
+      <edge source="Nischa" target="Ryne Williams" id="134" weight="2" />
+      <edge source="Nischa" target="Universe Data" id="135" weight="2" />
+      <edge source="Mark Tilbury" target="Humphrey Yang" id="136" weight="31" />
+      <edge source="Mark Tilbury" target="Steve | Call to Leap" id="137" weight="34" />
+      <edge source="Mark Tilbury" target="Gohar Khan" id="138" weight="27" />
+      <edge source="Mark Tilbury" target="The Ramsey Show Highlights" id="139" weight="23" />
+      <edge source="Mark Tilbury" target="Joyee Yang" id="140" weight="7" />
+      <edge source="Mark Tilbury" target="Craig Percoco" id="141" weight="7" />
+      <edge source="Mark Tilbury" target="Davie Mach" id="142" weight="1" />
+      <edge source="Mark Tilbury" target="Finer Market Points" id="143" weight="1" />
+      <edge source="Mark Tilbury" target="Jason McIntosh __ Motion Trader" id="144" weight="1" />
+      <edge source="Mark Tilbury" target="Ryne Williams" id="145" weight="4" />
+      <edge source="Humphrey Yang" target="Craig Percoco" id="146" weight="12" />
+      <edge source="Humphrey Yang" target="Steve | Call to Leap" id="147" weight="32" />
+      <edge source="Humphrey Yang" target="Joyee Yang" id="148" weight="20" />
+      <edge source="Humphrey Yang" target="Gohar Khan" id="149" weight="5" />
+      <edge source="Humphrey Yang" target="The Ramsey Show Highlights" id="150" weight="5" />
+      <edge source="Humphrey Yang" target="Ryne Williams" id="151" weight="5" />
+      <edge source="Gohar Khan" target="Steve | Call to Leap" id="152" weight="9" />
+      <edge source="Gohar Khan" target="The Ramsey Show Highlights" id="153" weight="6" />
+      <edge source="Gohar Khan" target="Joyee Yang" id="154" weight="1" />
+      <edge source="Gohar Khan" target="Ryne Williams" id="155" weight="3" />
+      <edge source="Steve | Call to Leap" target="Craig Percoco" id="156" weight="6" />
+      <edge source="Steve | Call to Leap" target="Equity Mates" id="157" weight="1" />
+      <edge source="Steve | Call to Leap" target="The Ramsey Show Highlights" id="158" weight="11" />
+      <edge source="Steve | Call to Leap" target="Ryne Williams" id="159" weight="7" />
+      <edge source="Steve | Call to Leap" target="Joyee Yang" id="160" weight="13" />
+      <edge source="Craig Percoco" target="Joyee Yang" id="161" weight="9" />
+      <edge source="Joyee Yang" target="The Ramsey Show Highlights" id="162" weight="2" />
+      <edge source="Joyee Yang" target="Davie Mach" id="163" weight="1" />
+      <edge source="Livewire Markets" target="Personal Finance with Ravi Sharma" id="164" weight="1" />
+      <edge source="Livewire Markets" target="ausbiz" id="165" weight="6" />
+      <edge source="Livewire Markets" target="Jason McIntosh __ Motion Trader" id="166" weight="1" />
+      <edge source="The Ramsey Show Highlights" target="Ryne Williams" id="167" weight="1" />
+      <edge source="Walk The World" target="Personal Finance with Ravi Sharma" id="168" weight="1" />
+      <edge source="Finer Market Points" target="Jason McIntosh __ Motion Trader" id="169" weight="1" />
+      <edge source="ausbiz" target="Jason McIntosh __ Motion Trader" id="170" weight="2" />
+      <edge source="Davie Mach" target="Australian Property Mastery with PK Gupta" id="171" weight="1" />
+    </edges>
+  </graph>
+</gexf>
