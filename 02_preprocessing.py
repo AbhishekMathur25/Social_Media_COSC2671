@@ -1,9 +1,3 @@
-
-# FILE 02: DATA PREPROCESSING
-# Financial Influencers & ASX Market Analysis
-# COSC 2671 - Assignment 2
-
-
 import json
 import re
 import time
