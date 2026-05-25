@@ -1,1 +1,98 @@
+============================================================
+ACCESS DEMONSTRATION FILE
+COSC2671 / COSC3047 — Social Media and Network Analysis
+Assignment 2 — Group 15 (Postgraduate)
+============================================================
+
+Course:         COSC2671 — Social Media and Network Analysis
+Assignment:     Assignment 2 — Group Project
+Group Number:   Group 15
+Level:          Postgraduate (PG)
+Submission:     25 May 2026
+
+------------------------------------------------------------
+TEAM MEMBERS
+------------------------------------------------------------
+Name                       Student Number   Email
+Abhishek Mathur            s4200870         s4200870@student.rmit.edu.au
+Meishva Kiran Rathod       s4150918         s4150918@student.rmit.edu.au
+Ananya Shandilya           s4145593         s4145593@student.rmit.edu.au
+
+------------------------------------------------------------
+CODE REPOSITORY — GITHUB
+------------------------------------------------------------
+Repository URL:
+https://github.com/AbhishekMathur25/Social_Media_COSC2671
+
+Access Type:    Public repository (no login required)
+
+To access:
+1. Open the URL above in any web browser
+2. All Python scripts are in the root directory
+3. The outputs/ folder contains all generated plots
+4. The data/ folder contains representative data samples
+
+File listing:
+  01_data_collection.py           YouTube API data collection
+  02_preprocessing.py             Data cleaning and ASX alignment
+  03_sentiment_analysis.py        VADER sentiment analysis
+  04_topic_modelling.py           LDA topic modelling (sklearn)
+  05_network_construction.py      NetworkX graph construction
+  06_community_detection.py       Louvain community detection
+  07_information_diffusion_homophily.py   Diffusion and homophily
+
+------------------------------------------------------------
+RUNNING THE CODE
+------------------------------------------------------------
+Requirements:
+  Python 3.10 or 3.12
+  All dependencies listed in requirements.txt
+
+Installation:
+  pip install -r requirements.txt
+
+Execution order (run in sequence):
+  python 01_data_collection.py      (requires YouTube API key)
+  python 02_preprocessing.py
+  python 03_sentiment_analysis.py
+  python 04_topic_modelling.py
+  python 05_network_construction.py
+  python 06_community_detection.py
+  python 07_information_diffusion_homophily.py
+
+API Key Note:
+  A valid YouTube Data API v3 key is required for File 01 only.
+  All subsequent files use the saved CSV outputs.
+  Files 02-07 can be run using the representative data sample
+  provided in the /data/ folder without an API key.
+
+------------------------------------------------------------
+REQUIREMENTS.TXT CONTENTS
+------------------------------------------------------------
+google-api-python-client==2.111.0
+youtube-transcript-api==0.6.2
+yfinance==1.4.0
+pandas==2.1.4
+numpy==1.26.3
+matplotlib==3.8.2
+seaborn==0.13.1
+networkx==3.2.1
+python-louvain==0.16
+vaderSentiment==3.3.1
+scikit-learn==1.4.0
+scipy==1.12.0
+nltk==3.8.1
+tqdm==4.66.1
+
+------------------------------------------------------------
+NOTE ON VERSION CONTROL
+------------------------------------------------------------
+All code was developed and iterated locally throughout the
+project period. The GitHub repository was used as a final
+submission and sharing tool, with the complete codebase
+pushed on 24 May 2026 prior to submission. This reflects
+the team's working practice of local development with a
+single consolidated push.
+
+============================================================
 
