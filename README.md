@@ -168,5 +168,3 @@ RESEARCH QUESTIONS ADDRESSED
   RQ4: Do audiences self-select by sentiment/topic (homophily),
        and how does information spread across the network?
        -> Scripts: 07_information_diffusion_homophily.py
-
-================================================================
